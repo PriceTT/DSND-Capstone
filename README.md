@@ -11,13 +11,13 @@ To read the blog post associated with the article, you can go [here](https://med
 ### Ultrafiltration Process
 In the food and biochemical industry, the use of Ultrafiltration (UF) is a key unit operation to purify the product of interest. The feed enters the UF and and based on the pore size of the membrane, substances larger than the pore size, remains in the **concentrate (product)** and substances smaller than the pore size goes into the **permeate (waste)**.  
 
-![alt text](https://www.crs-reprocessing.com/wp-content/uploads/2015/08/CRS_ToughUltraFiltration_Diagram_V4.png "Ultrafiltration Process")
+![alt text](https://www.crs-reprocessing.com/wp-content/uploads/2015/08/CRS_ToughUltraFiltration_Diagram_V4.png "Ultrafiltration Process")  
 *Image courtesy www.crs-reprocessing.com*
 
 
 The pore size of the UF membrane, depending on the application, is on the order of 10 - 100 Kilo daltons. It is because of this, that it is possible to separate proteins, and increases the concentration of proteins in the concentrate stream by removing water and salts, leaving behind the product of interest.  
 
-![alt text](https://synderfiltration.com/2014/wp-content/uploads/2014/05/UF-black-font-623x351.gif "Ultrafiltration Overview")
+![alt text](https://synderfiltration.com/2014/wp-content/uploads/2014/05/UF-black-font-623x351.gif "Ultrafiltration Overview")  
 *Image courtesy www.synderfiltration.com*
 
 
@@ -78,7 +78,7 @@ This is actually a much shorter period than which the manufacture says should be
 The LSTM does a poor job of predicting the actual permeate values but does an excellent job of predicting the EMA (shown below) and standard deviation. This can then be used to enable longer term predictions compared to just using the EMA model.
 
 <p align="center">
-  <img src="LSTM.png" width="800">
+  <img src="lstm.png" width="800">
 </p>
 
 ### Future work

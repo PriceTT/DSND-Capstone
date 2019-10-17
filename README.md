@@ -105,6 +105,8 @@ Scaled permeate data, **permeate_data.csv** has kindly been provided by **Novozy
 The dataset, has already been cleaned and scaled and the  **mean_value_scaled** column contains the  scaled permeate values between 0 - 1.    
 Product names  have been dropped and what is left are the dates when the measurement were taken **sample_created_date**. 
 
+**AutoEncoder.h5** is the pretrained autoencoder model and is loaded when running the notebook.
+
 ## Requirements 
 The following  libraries were used to produce the results below: 
 
